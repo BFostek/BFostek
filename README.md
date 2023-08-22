@@ -14,7 +14,7 @@
 ## 🚀 Languages and Tools:
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
