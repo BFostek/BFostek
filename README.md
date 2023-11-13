@@ -8,8 +8,6 @@
 - 🌱 I'm currently learning **Rust/System Programming**
 - 👯 I'm looking to collaborate on **System Programming open-source projects**
 - 📫 How to reach me: **[bfmbreno@gmail.com]**
-- 😄 Pronouns: **He/Him**
-
   
 ## 🚀 Languages and Tools:
 
