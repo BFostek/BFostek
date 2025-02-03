@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **Scala/Advanced Functional programming**
+- 🌱 I'm currently learning **Scala/ Functional programming**
 - 👯 I'm looking to collaborate on **Function Programming projects**
 - 📫 How to reach me: **[bfmbreno@gmail.com]**
   
