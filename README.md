@@ -5,8 +5,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **Rust/System Programming**
-- 👯 I'm looking to collaborate on **System Programming open-source projects**
+- 🌱 I'm currently learning **Scala/Advanced Functional programming**
+- 👯 I'm looking to collaborate on **Function Programming projects**
 - 📫 How to reach me: **[bfmbreno@gmail.com]**
   
 ## 🚀 Languages and Tools:
@@ -15,4 +15,5 @@
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
 
