@@ -1,4 +1,4 @@
-# Hello, I'm BFostek! 👋
+# Hello, I'm Breno F. Martins! 👋
 
 ![](https://komarev.com/ghpvc/?username=BFostek)
 
@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I'm currently learning **Scala/ Functional programming**
-- 👯 I'm looking to collaborate on **Function Programming projects**
+- 👯 I'm looking to collaborate on **Function Programming projects//Golang Projects**
 - 📫 How to reach me: **[bfmbreno@gmail.com]**
   
 ## 🚀 Languages and Tools:
